@@ -19,8 +19,7 @@ public class Solution {
             return 0;
         }
 
-        int res = 0;
-        res = Fibonacci(n - 1) + Fibonacci(n - 2);
+        int res = Fibonacci(n - 1) + Fibonacci(n - 2);
 
         return res;
 
