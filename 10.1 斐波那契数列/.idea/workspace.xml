@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de01984-9bab-4431-b020-929348635b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2 矩形覆盖/10.2 矩形覆盖.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2 矩形覆盖/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="528">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -53,7 +59,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="156" />
     <option name="y" value="45" />
     <option name="width" value="1550" />
@@ -75,11 +81,6 @@
             <path>
               <item name="10.1 斐波那契数列" type="b2602c69:ProjectViewProjectNode" />
               <item name="10.1 斐波那契数列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="10.1 斐波那契数列" type="b2602c69:ProjectViewProjectNode" />
-              <item name="10.1 斐波那契数列" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559710795194</updated>
-      <workItem from="1559710797703" duration="255000" />
+      <workItem from="1559710797703" duration="1537000" />
     </task>
     <task id="LOCAL-00001" summary="10.1 斐波那契数列">
       <created>1559711019307</created>
@@ -127,14 +128,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559711019307</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10.1 斐波那契数列">
+      <created>1559711072325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559711072325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="10.1 斐波那契数列">
+      <created>1559711105604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559711105604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255000" />
+    <option name="totallyTimeSpent" value="1537000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -178,8 +193,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="528">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
