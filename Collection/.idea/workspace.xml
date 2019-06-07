@@ -2,63 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../16. 数值的整数次方/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16. 数值的整数次方/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/10.1 斐波那契数列.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/10.2 矩形覆盖.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/10.3 跳台阶.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/10.4 变态跳台阶.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15. 二进制中 1 的个数/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15. 二进制中 1 的个数/15. 二进制中 1 的个数.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15. 二进制中 1 的个数/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16. 数值的整数次方/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/3. 数组中重复的数字.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. 二维数组中的查找/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. 二维数组中的查找/4. 二维数组中的查找.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. 二维数组中的查找/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. 替换空格/5. 替换空格.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. 替换空格/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. 从尾到头打印链表/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6. 从尾到头打印链表/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7. 重建二叉树/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8. 二叉树的下一个结点/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8. 二叉树的下一个结点/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/9. 用两个栈实现队列.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/src/Solution.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/17. 打印从 1 到最大的 n 位数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/Finished.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/NoFinished.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,11 +49,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/16. 数值的整数次方/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/Finished.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/NoFinished.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,6 +101,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -125,6 +113,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/16. 数值的整数次方/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/annotation/NoFinished.java" />
+        <option value="$PROJECT_DIR$/src/annotation/Finished.java" />
+        <option value="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -136,10 +127,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-92" />
-    <option name="y" value="167" />
-    <option name="width" value="1938" />
-    <option name="height" value="882" />
+    <option name="x" value="112" />
+    <option name="y" value="110" />
+    <option name="width" value="1550" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,12 +153,12 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="16. 数值的整数次方" type="462c0819:PsiDirectoryNode" />
+              <item name="17. 打印从 1 到最大的 n 位数" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="16. 数值的整数次方" type="462c0819:PsiDirectoryNode" />
+              <item name="17. 打印从 1 到最大的 n 位数" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -210,7 +201,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="17. 打印从 1 到最大的 n 位数" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="3. 数组中重复的数字" />
@@ -220,6 +218,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -234,7 +233,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559871822725</updated>
-      <workItem from="1559871825308" duration="1282000" />
+      <workItem from="1559871825308" duration="4317000" />
     </task>
     <task id="LOCAL-00001" summary="剑指OFFER">
       <created>1559872494440</created>
@@ -243,11 +242,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559872494440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="剑指OFFER">
+      <created>1559873124208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559873124208</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1282000" />
+    <option name="totallyTimeSpent" value="4317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -258,7 +264,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" />
@@ -269,7 +275,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,13 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. 数组中重复的数字/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15. 二进制中 1 的个数/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -324,7 +323,45 @@
     <entry file="file://$PROJECT_DIR$/16. 数值的整数次方/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/Finished.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/NoFinished.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 数组中重复的数字/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
