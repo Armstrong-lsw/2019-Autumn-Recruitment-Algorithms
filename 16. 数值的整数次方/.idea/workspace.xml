@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a3010e7-484e-4ad7-af9f-16548fbae1e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/16. 数值的整数次方/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/Collection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/10.1 斐波那契数列.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.1 斐波那契数列/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/10.2 矩形覆盖.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.2 矩形覆盖/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/10.3 跳台阶.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.3 跳台阶/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/10.4 变态跳台阶.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.4 变态跳台阶/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. 二进制中 1 的个数/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. 二进制中 1 的个数/15. 二进制中 1 的个数.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. 二进制中 1 的个数/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/3. 数组中重复的数字.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. 数组中重复的数字/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. 二维数组中的查找/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. 二维数组中的查找/4. 二维数组中的查找.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. 二维数组中的查找/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. 替换空格/5. 替换空格.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. 替换空格/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. 从尾到头打印链表/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. 从尾到头打印链表/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. 重建二叉树/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. 二叉树的下一个结点/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. 二叉树的下一个结点/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/9. 用两个栈实现队列.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. 用两个栈实现队列/src/Solution.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-92" />
+    <option name="y" value="167" />
+    <option name="width" value="1938" />
+    <option name="height" value="882" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a3010e7-484e-4ad7-af9f-16548fbae1e9" name="Default Changelist" comment="" />
+      <created>1559871729632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559871729632</updated>
+      <workItem from="1559871731235" duration="689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
