@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/32.1从上往下打印二叉树/32.1从上往下打印二叉树.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.1从上往下打印二叉树/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.2把二叉树打印成多行/32.2把二叉树打印成多行.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.2把二叉树打印成多行/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32.1从上往下打印二叉树/src/Test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +75,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="671">
+              <caret line="43" column="19" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="43" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/32.2把二叉树打印成多行/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="737">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,19 +97,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="783" column="7" lean-forward="true" selection-start-line="783" selection-start-column="7" selection-end-line="783" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="671" column="13" selection-start-line="671" selection-start-column="13" selection-end-line="671" selection-end-column="13" />
               <folding>
                 <element signature="e#8008#8009#0" expanded="true" />
                 <element signature="e#8036#8037#0" expanded="true" />
@@ -115,15 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. 二维数组中的查找/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -171,6 +165,7 @@
         <option value="$PROJECT_DIR$/32.1从下往上打印二叉树/src/Solution.java" />
         <option value="$PROJECT_DIR$/32.1从上往下打印二叉树/src/Test.java" />
         <option value="$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java" />
+        <option value="$PROJECT_DIR$/32.2把二叉树打印成多行/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -213,6 +208,17 @@
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="32.1从上往下打印二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="32.2把二叉树打印成多行" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="32.2把二叉树打印成多行" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -321,7 +327,7 @@
       <workItem from="1560757685492" duration="1441000" />
       <workItem from="1560760443169" duration="11963000" />
       <workItem from="1560781366383" duration="1943000" />
-      <workItem from="1560837137796" duration="13284000" />
+      <workItem from="1560837137796" duration="13897000" />
     </task>
     <task id="LOCAL-00001" summary="剑指OFFER">
       <created>1559872494440</created>
@@ -470,11 +476,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560954315034</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="剑指OFFER">
+      <created>1560955382911</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560955382911</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37600000" />
+    <option name="totallyTimeSpent" value="38213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -791,24 +804,14 @@
     <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="783" column="7" lean-forward="true" selection-start-line="783" selection-start-column="7" selection-end-line="783" selection-end-column="7" />
+        <state relative-caret-position="289">
+          <caret line="671" column="13" selection-start-line="671" selection-start-column="13" selection-end-line="671" selection-end-column="13" />
           <folding>
             <element signature="e#8008#8009#0" expanded="true" />
             <element signature="e#8036#8037#0" expanded="true" />
@@ -816,6 +819,26 @@
             <element signature="e#23241#23242#0" expanded="true" />
             <element signature="e#23699#23700#0" expanded="true" />
             <element signature="e#23735#23736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.2把二叉树打印成多行/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
