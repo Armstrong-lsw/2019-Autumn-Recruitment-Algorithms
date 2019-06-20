@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/33.二叉搜索树的后续遍历序列/33.二叉搜索树的后续遍历序列.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.二叉搜索树的后续遍历序列/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.二叉树中和为某一值的路径/34.二叉树中和为某一值的路径.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,15 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27.二叉树的镜像/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/28.对称的二叉树/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,15 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/33.二叉搜索树的后续遍历序列/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="495">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -183,6 +179,7 @@
         <option value="$PROJECT_DIR$/32.2把二叉树打印成多行/src/Solution.java" />
         <option value="$PROJECT_DIR$/32.3按之字形顺序打印二叉树/src/Solution.java" />
         <option value="$PROJECT_DIR$/33.二叉搜索树的后续遍历序列/src/Solution.java" />
+        <option value="$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -219,12 +216,12 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="33.二叉搜索树的后续遍历序列" type="462c0819:PsiDirectoryNode" />
+              <item name="34.二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="33.二叉搜索树的后续遍历序列" type="462c0819:PsiDirectoryNode" />
+              <item name="34.二叉树中和为某一值的路径" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -333,7 +330,7 @@
       <workItem from="1560757685492" duration="1441000" />
       <workItem from="1560760443169" duration="11963000" />
       <workItem from="1560781366383" duration="1943000" />
-      <workItem from="1560837137796" duration="18343000" />
+      <workItem from="1560837137796" duration="20426000" />
     </task>
     <task id="LOCAL-00001" summary="剑指OFFER">
       <created>1559872494440</created>
@@ -510,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561002955786</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="剑指OFFER">
+      <created>1561005075545</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1561005075545</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42659000" />
+    <option name="totallyTimeSpent" value="44742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -882,12 +886,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/33.二叉搜索树的后续遍历序列/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
         </state>
       </provider>
     </entry>
