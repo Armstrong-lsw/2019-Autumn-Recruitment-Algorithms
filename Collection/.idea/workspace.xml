@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.数据结构/0.数据结构.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.数据结构/src/Array/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/35.复杂链表的复制/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2255">
+            <state relative-caret-position="2530">
               <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
               <folding>
                 <element signature="e#320#321#0" expanded="true" />
@@ -90,6 +80,33 @@
                 <element signature="e#2007#2008#0" expanded="true" />
                 <element signature="e#2038#2039#0" expanded="true" />
                 <element signature="e#2068#2069#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0.数据结构/src/Array/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1815">
+              <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1482#1483#0" expanded="true" />
+                <element signature="e#1512#1513#0" expanded="true" />
+                <element signature="e#1543#1544#0" expanded="true" />
+                <element signature="e#1573#1574#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -192,6 +209,7 @@
         <option value="$PROJECT_DIR$/38.字符串排序/src/Test.java" />
         <option value="$PROJECT_DIR$/38.字符串排序/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/0.数据结构/src/Array/Array.java" />
       </list>
     </option>
   </component>
@@ -228,6 +246,12 @@
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="0.数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
@@ -350,7 +374,7 @@
       <workItem from="1560781366383" duration="1943000" />
       <workItem from="1560837137796" duration="22045000" />
       <workItem from="1561122189515" duration="7817000" />
-      <workItem from="1561207710214" duration="1732000" />
+      <workItem from="1561207710214" duration="4099000" />
     </task>
     <task id="LOCAL-00001" summary="剑指OFFER">
       <created>1559872494440</created>
@@ -569,15 +593,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561130701096</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="剑指OFFER">
+      <created>1561209458881</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1561209458881</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55910000" />
+    <option name="totallyTimeSpent" value="58277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -986,7 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2255">
+        <state relative-caret-position="2530">
           <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
           <folding>
             <element signature="e#320#321#0" expanded="true" />
@@ -1009,6 +1039,31 @@
             <element signature="e#2007#2008#0" expanded="true" />
             <element signature="e#2038#2039#0" expanded="true" />
             <element signature="e#2068#2069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.数据结构/src/Array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1512#1513#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
           </folding>
         </state>
       </provider>
