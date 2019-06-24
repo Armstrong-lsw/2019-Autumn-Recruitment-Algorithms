@@ -1,3 +1,5 @@
+import java.util.LinkedList;
+
 /**
  * Create with 4. 二维数组中的查找
  * User: 许清远

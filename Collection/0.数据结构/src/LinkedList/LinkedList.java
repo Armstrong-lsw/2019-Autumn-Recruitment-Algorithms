@@ -18,10 +18,6 @@ public class LinkedList<E> {
             this.next = next;
         }
 
-        Node(E e) {
-            this(e, null);
-        }
-
         Node() {
             this(null, null);
         }
