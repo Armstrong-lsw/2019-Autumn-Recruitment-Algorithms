@@ -65,8 +65,16 @@ public class SortTestHelper {
     }
 
     public static void isFinish(Sort sort) {
-        Integer[] integers = SortTestHelper.generateRandomArray(1000, 1, 1000);
+        Integer[] integers = SortTestHelper.generateRandomArray(50, 1, 1000);
+        for (Integer integer : integers) {
+            System.out.print(integer + " ");
+        }
+        System.out.println();
         sort.sort(integers);
+        for (Integer integer : integers) {
+            System.out.print(integer + " ");
+        }
+        System.out.println();
         System.out.println(SortTestHelper.isSorted(integers));
     }
 
