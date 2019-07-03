@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/10.3 跳台阶/10.3 跳台阶.iml" filepath="$PROJECT_DIR$/10.3 跳台阶/10.3 跳台阶.iml" />
       <module fileurl="file://$PROJECT_DIR$/10.4 变态跳台阶[未完成]/10.4 变态跳台阶.iml" filepath="$PROJECT_DIR$/10.4 变态跳台阶[未完成]/10.4 变态跳台阶.iml" />
       <module fileurl="file://$PROJECT_DIR$/15. 二进制中 1 的个数/15. 二进制中 1 的个数.iml" filepath="$PROJECT_DIR$/15. 二进制中 1 的个数/15. 二进制中 1 的个数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. 二进制中 1 的个数[RE0703]/15. 二进制中 1 的个数[RE0703].iml" filepath="$PROJECT_DIR$/15. 二进制中 1 的个数[RE0703]/15. 二进制中 1 的个数[RE0703].iml" />
       <module fileurl="file://$PROJECT_DIR$/16. 数值的整数次方/16. 数值的整数次方.iml" filepath="$PROJECT_DIR$/16. 数值的整数次方/16. 数值的整数次方.iml" />
       <module fileurl="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/17. 打印从 1 到最大的 n 位数.iml" filepath="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/17. 打印从 1 到最大的 n 位数.iml" />
       <module fileurl="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点/18.1 在 O(1) 时间内删除链表节点.iml" filepath="$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点/18.1 在 O(1) 时间内删除链表节点.iml" />
@@ -49,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/44.数字序列中的某一位数字/44.数字序列中的某一位数字.iml" filepath="$PROJECT_DIR$/44.数字序列中的某一位数字/44.数字序列中的某一位数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/45.把数组排成最小的数/45.把数组排成最小的数.iml" filepath="$PROJECT_DIR$/45.把数组排成最小的数/45.把数组排成最小的数.iml" />
       <module fileurl="file://$PROJECT_DIR$/46.把数字翻译成字符串[未完成]/46.把数字翻译成字符串.iml" filepath="$PROJECT_DIR$/46.把数字翻译成字符串[未完成]/46.把数字翻译成字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47.礼物的最大值/47.礼物的最大值.iml" filepath="$PROJECT_DIR$/47.礼物的最大值/47.礼物的最大值.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. 替换空格/5. 替换空格.iml" filepath="$PROJECT_DIR$/5. 替换空格/5. 替换空格.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. 替换空格[RE0617]/5. 替换空格[RE0617].iml" filepath="$PROJECT_DIR$/5. 替换空格[RE0617]/5. 替换空格[RE0617].iml" />
       <module fileurl="file://$PROJECT_DIR$/6. 从尾到头打印链表/6. 从尾到头打印链表.iml" filepath="$PROJECT_DIR$/6. 从尾到头打印链表/6. 从尾到头打印链表.iml" />
