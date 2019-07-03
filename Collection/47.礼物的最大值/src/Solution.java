@@ -12,12 +12,6 @@
  */
 public class Solution {
 
-    public static void main(String[] args) {
-        int[][] board = new int[][]{{138,457,411,440,433,149}, {203,288,318,597,246,686},
-                {442,105,424,544,406,532}, {172,592,626,410,511,636}, {394,596,644,454,343,389}, {573,460,307,221,325,104}};
-        System.out.println(new Solution().getMost(board));
-    }
-
     public int getMost(int[][] board) {
         if (board == null || board.length == 0 || board[0].length == 0) {
             return 0;

@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/47.礼物的最大值/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="440">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -358,14 +358,7 @@
       <workItem from="1561808597517" duration="4097000" />
       <workItem from="1561813495156" duration="1370000" />
       <workItem from="1561982550722" duration="4063000" />
-      <workItem from="1562146478503" duration="6945000" />
-    </task>
-    <task id="LOCAL-00003" summary="剑指OFFER">
-      <created>1559878100327</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1559878100327</updated>
+      <workItem from="1562146478503" duration="7208000" />
     </task>
     <task id="LOCAL-00004" summary="剑指OFFER">
       <created>1559878359576</created>
@@ -703,11 +696,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562150012459</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="剑指OFFER">
+      <created>1562153654637</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1562153654637</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102484000" />
+    <option name="totallyTimeSpent" value="102747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1188,8 +1188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/47.礼物的最大值/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="440">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
