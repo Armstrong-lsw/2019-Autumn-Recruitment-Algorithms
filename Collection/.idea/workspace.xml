@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/18.1 在 O(1) 时间内删除链表节点[RE0703].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.2 删除链表中重复的结点[RE0703]/18.2 删除链表中重复的结点[RE0703].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.2 删除链表中重复的结点[RE0703]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.2 删除链表中重复的结点/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/18.2 删除链表中重复的结点/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,19 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/47.礼物的最大值/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-              <folding>
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15. 二进制中 1 的个数/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,16 +67,34 @@
         <entry file="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="407">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/18.2 删除链表中重复的结点[RE0703]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="671">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18.2 删除链表中重复的结点/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -107,15 +113,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5. 替换空格[RE0617]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -144,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5. 替换空格[RE0617]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/21.调整数组顺序使奇数位于偶数前面/src/Solution.java" />
         <option value="$PROJECT_DIR$/22.链表中倒数第K个节点/src/Solution.java" />
         <option value="$PROJECT_DIR$/23.链表中坏的入口节点/src/Solution.java" />
         <option value="$PROJECT_DIR$/24.反转链表/src/Solution.java" />
@@ -195,6 +190,8 @@
         <option value="$PROJECT_DIR$/16. 数值的整数次方[RE0703]/src/Solution.java" />
         <option value="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数[RE0703]/src/Solution.java" />
         <option value="$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/18.2 删除链表中重复的结点/src/Solution.java" />
+        <option value="$PROJECT_DIR$/18.2 删除链表中重复的结点[RE0703]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -231,24 +228,18 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="18.1 在 O(1) 时间内删除链表节点" type="462c0819:PsiDirectoryNode" />
+              <item name="18.2 删除链表中重复的结点" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="18.1 在 O(1) 时间内删除链表节点" type="462c0819:PsiDirectoryNode" />
+              <item name="18.2 删除链表中重复的结点" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="18.1 在 O(1) 时间内删除链表节点[RE0703]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="18.1 在 O(1) 时间内删除链表节点[RE0703]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="18.2 删除链表中重复的结点[RE0703]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
@@ -392,14 +383,7 @@
       <workItem from="1561808597517" duration="4097000" />
       <workItem from="1561813495156" duration="1370000" />
       <workItem from="1561982550722" duration="4063000" />
-      <workItem from="1562146478503" duration="2423000" />
-    </task>
-    <task id="LOCAL-00001" summary="剑指OFFER">
-      <created>1559872494440</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1559872494440</updated>
+      <workItem from="1562146478503" duration="3368000" />
     </task>
     <task id="LOCAL-00002" summary="剑指OFFER">
       <created>1559873124208</created>
@@ -737,11 +721,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562148362494</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="剑指OFFER">
+      <created>1562148910976</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1562148910977</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97962000" />
+    <option name="totallyTimeSpent" value="98907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -827,8 +818,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0.数据结构/src/test/ITest1.java" />
-    <entry file="file://$PROJECT_DIR$/0.数据结构/src/test/TestAbstract.java" />
     <entry file="file://$PROJECT_DIR$/0.数据结构/src/test/Test.java" />
     <entry file="file://$PROJECT_DIR$/0.数据结构/src/test/ITest1Impl.java" />
     <entry file="file://$PROJECT_DIR$/0.数据结构/src/test/Son.java" />
@@ -1208,14 +1197,28 @@
     <entry file="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18.2 删除链表中重复的结点/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18.2 删除链表中重复的结点[RE0703]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
