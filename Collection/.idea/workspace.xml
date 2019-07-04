@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.基础算法/src/堆排序/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.基础算法/src/堆排序/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.基础算法/src/快速排序/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0.基础算法/src/sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/0.基础算法/src/sort/Test.java" afterDir="false" />
     </list>
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/SortTestHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+            <state relative-caret-position="165">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="550">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,19 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0.基础算法/src/希尔排序/ShellSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/归并排序/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#249#250#0" expanded="true" />
@@ -72,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/堆排序/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="451">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="e#675#676#0" expanded="true" />
                 <element signature="e#711#712#0" expanded="true" />
@@ -85,10 +75,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.基础算法/src/快速排序/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+              <folding>
+                <element signature="e#32010#32011#0" expanded="true" />
+                <element signature="e#32095#32096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/堆排序/Heap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="627">
-              <caret line="58" column="5" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+              <caret line="58" column="5" selection-start-line="54" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
               <folding>
                 <element signature="e#495#496#0" expanded="true" />
                 <element signature="e#518#519#0" expanded="true" />
@@ -112,7 +128,7 @@
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="3426" column="67" lean-forward="true" selection-start-line="3426" selection-start-column="67" selection-end-line="3426" selection-end-column="67" />
+              <caret line="3426" column="67" selection-start-line="3426" selection-start-column="67" selection-end-line="3426" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -150,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/32.3按之字形顺序打印二叉树/src/Solution.java" />
         <option value="$PROJECT_DIR$/33.二叉搜索树的后续遍历序列/src/Solution.java" />
         <option value="$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java" />
         <option value="$PROJECT_DIR$/35.复杂链表的复制/src/Solution.java" />
@@ -193,13 +208,14 @@
         <option value="$PROJECT_DIR$/0.基础算法/src/选择排序/Test.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/选择排序/SelectionSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/冒泡排序/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/0.基础算法/src/sort/SortTestHelper.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/插入排序/InsertionSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/希尔排序/ShellSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/归并排序/MergeSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/Test.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/堆排序/Heap.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/堆排序/HeapSort.java" />
+        <option value="$PROJECT_DIR$/0.基础算法/src/sort/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/0.基础算法/src/快速排序/QuickSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/sort/Test.java" />
       </list>
     </option>
@@ -258,7 +274,7 @@
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.基础算法" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="堆排序" type="462c0819:PsiDirectoryNode" />
+              <item name="快速排序" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
@@ -396,14 +412,7 @@
       <workItem from="1561813495156" duration="1370000" />
       <workItem from="1561982550722" duration="4063000" />
       <workItem from="1562146478503" duration="7910000" />
-      <workItem from="1562156786003" duration="11500000" />
-    </task>
-    <task id="LOCAL-00009" summary="剑指OFFER">
-      <created>1560761749866</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1560761749866</updated>
+      <workItem from="1562156786003" duration="12603000" />
     </task>
     <task id="LOCAL-00010" summary="剑指OFFER">
       <created>1560762482481</created>
@@ -741,11 +750,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562213504153</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="剑指OFFER">
+      <created>1562224954375</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1562224954375</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114949000" />
+    <option name="totallyTimeSpent" value="116052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -831,20 +847,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7. 重建二叉树/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7. 重建二叉树[RE0624]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8. 二叉树的下一个结点[RE0624]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
@@ -1137,16 +1139,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/SortTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/归并排序.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1157,14 +1149,14 @@
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/希尔排序/ShellSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="3426" column="67" lean-forward="true" selection-start-line="3426" selection-start-column="67" selection-end-line="3426" selection-end-column="67" />
+          <caret line="3426" column="67" selection-start-line="3426" selection-start-column="67" selection-end-line="3426" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1170,7 @@
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/归并排序/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#249#250#0" expanded="true" />
@@ -1204,7 +1196,7 @@
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/堆排序/Heap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+          <caret line="58" column="5" selection-start-line="54" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
           <folding>
             <element signature="e#495#496#0" expanded="true" />
             <element signature="e#518#519#0" expanded="true" />
@@ -1216,8 +1208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/堆排序/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="451">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
             <element signature="e#675#676#0" expanded="true" />
             <element signature="e#711#712#0" expanded="true" />
@@ -1227,10 +1219,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.基础算法/src/快速排序/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="550">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

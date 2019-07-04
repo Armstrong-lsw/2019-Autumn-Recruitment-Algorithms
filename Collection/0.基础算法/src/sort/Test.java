@@ -4,6 +4,7 @@ import 冒泡排序.BubbleSort;
 import 堆排序.HeapSort;
 import 希尔排序.ShellSort;
 import 归并排序.MergeSort;
+import 快速排序.QuickSort;
 import 插入排序.InsertionSort;
 import 选择排序.SelectionSort;
 
@@ -21,7 +22,9 @@ public class Test {
 //        SortTestHelper.isFinish(new BubbleSort());
 //        SortTestHelper.isFinish(new InsertionSort());
 //        SortTestHelper.isFinish(new MergeSort());
-        SortTestHelper.isFinish(new HeapSort());
+//        SortTestHelper.isFinish(new HeapSort());
+        SortTestHelper.isFinish(new QuickSort());
     }
+
 
 }
