@@ -1,6 +1,4 @@
-package 堆排序;
-
-import java.lang.reflect.Array;
+package sort.堆排序;
 
 /**
  * Create with Collection

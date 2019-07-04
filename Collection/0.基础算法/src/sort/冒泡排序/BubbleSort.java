@@ -1,4 +1,4 @@
-package 冒泡排序;
+package sort.冒泡排序;
 
 import sort.Sort;
 

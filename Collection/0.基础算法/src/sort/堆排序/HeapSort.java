@@ -1,4 +1,4 @@
-package 堆排序;
+package sort.堆排序;
 
 import sort.Sort;
 

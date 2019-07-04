@@ -1,4 +1,4 @@
-package 希尔排序;
+package sort.希尔排序;
 
 import sort.Sort;
 

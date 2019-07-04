@@ -1,4 +1,4 @@
-package 选择排序;
+package sort.选择排序;
 
 import sort.Sort;
 
@@ -7,7 +7,7 @@ import sort.Sort;
  * User: 许清远
  * Date: 2019/7/3
  * Time: 20:31
- * Description:选择排序
+ * Description:sort.选择排序
  */
 public class SelectionSort implements Sort {
 

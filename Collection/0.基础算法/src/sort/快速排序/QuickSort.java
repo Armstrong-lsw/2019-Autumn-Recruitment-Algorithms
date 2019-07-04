@@ -1,4 +1,4 @@
-package 快速排序;
+package sort.快速排序;
 
 import sort.Sort;
 

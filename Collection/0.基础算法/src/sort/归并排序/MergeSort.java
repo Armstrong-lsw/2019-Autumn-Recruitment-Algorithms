@@ -1,4 +1,4 @@
-package 归并排序;
+package sort.归并排序;
 
 import sort.Sort;
 
