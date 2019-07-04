@@ -1,6 +1,7 @@
 package sort;
 
 import 冒泡排序.BubbleSort;
+import 堆排序.HeapSort;
 import 希尔排序.ShellSort;
 import 归并排序.MergeSort;
 import 插入排序.InsertionSort;
@@ -19,7 +20,8 @@ public class Test {
 //        SortTestHelper.isFinish(new SelectionSort());
 //        SortTestHelper.isFinish(new BubbleSort());
 //        SortTestHelper.isFinish(new InsertionSort());
-        SortTestHelper.isFinish(new MergeSort());
+//        SortTestHelper.isFinish(new MergeSort());
+        SortTestHelper.isFinish(new HeapSort());
     }
 
 }
