@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/48.最长不含重复字符的字符串/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/48.最长不含重复字符的字符串/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49.丑数/49.丑数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49.丑数/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/堆排序/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="451">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="e#675#676#0" expanded="true" />
                 <element signature="e#711#712#0" expanded="true" />
@@ -52,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/快速排序/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding>
                 <element signature="e#223#224#0" expanded="true" />
                 <element signature="e#245#246#0" expanded="true" />
@@ -61,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/48.最长不含重复字符的字符串/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+            <state relative-caret-position="506">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/49.丑数/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -149,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/34.二叉树中和为某一值的路径/src/Solution.java" />
         <option value="$PROJECT_DIR$/35.复杂链表的复制/src/Solution.java" />
         <option value="$PROJECT_DIR$/36.二叉搜索树与双向链表/src/Solution.java" />
         <option value="$PROJECT_DIR$/37.序列化二叉树/src/Solution.java" />
@@ -200,6 +211,7 @@
         <option value="$PROJECT_DIR$/0.基础算法/src/sort/快速排序/QuickSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/sort/Test.java" />
         <option value="$PROJECT_DIR$/48.最长不含重复字符的字符串/src/Solution.java" />
+        <option value="$PROJECT_DIR$/49.丑数/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -237,12 +249,12 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="48.最长不含重复字符的字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="49.丑数" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="48.最长不含重复字符的字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="49.丑数" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -376,14 +388,7 @@
       <workItem from="1561813495156" duration="1370000" />
       <workItem from="1561982550722" duration="4063000" />
       <workItem from="1562146478503" duration="7910000" />
-      <workItem from="1562156786003" duration="14434000" />
-    </task>
-    <task id="LOCAL-00012" summary="剑指OFFER">
-      <created>1560765004474</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1560765004474</updated>
+      <workItem from="1562156786003" duration="17308000" />
     </task>
     <task id="LOCAL-00013" summary="剑指OFFER">
       <created>1560768620729</created>
@@ -721,11 +726,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562230134819</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="剑指OFFER">
+      <created>1562231064774</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1562231064774</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117883000" />
+    <option name="totallyTimeSpent" value="120757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -811,13 +823,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8. 二叉树的下一个结点[RE0624]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="42" column="5" selection-start-line="25" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9. 用两个栈实现队列/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1150,7 +1155,7 @@
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/堆排序/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
             <element signature="e#675#676#0" expanded="true" />
             <element signature="e#711#712#0" expanded="true" />
@@ -1184,7 +1189,7 @@
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/快速排序/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding>
             <element signature="e#223#224#0" expanded="true" />
             <element signature="e#245#246#0" expanded="true" />
@@ -1213,8 +1218,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/48.最长不含重复字符的字符串/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        <state relative-caret-position="506">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/49.丑数/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
