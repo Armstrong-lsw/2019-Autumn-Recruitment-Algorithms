@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/52.两个链表的第一个公共节点/52.两个链表的第一个公共节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52.两个链表的第一个公共节点/src/Solution.java" afterDir="false" />
+    <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="剑指OFFER">
+      <change afterPath="$PROJECT_DIR$/53.数字在排序数组中出现的次数/53.数字在排序数组中出现的次数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53.数字在排序数组中出现的次数/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,15 +23,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/25.合并两个排序的链表[RE0705]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.基础算法/src/概率题/Rand7/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="474">
@@ -43,17 +34,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/51.数组中的逆序对/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="385">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/53.数字在排序数组中出现的次数/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/52.两个链表的第一个公共节点/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="616">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="e#196#197#0" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
@@ -143,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.数据结构/src/test/Father.java" />
         <option value="$PROJECT_DIR$/4. 二维数组中的查找/src/Solution.java" />
         <option value="$PROJECT_DIR$/6. 从尾到头打印链表[RE0624]/src/Solution.java" />
         <option value="$PROJECT_DIR$/7. 重建二叉树[RE0624]/src/Solution.java" />
@@ -192,8 +191,9 @@
         <option value="$PROJECT_DIR$/25.合并两个排序的链表[RE0705]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/概率题/Rand7.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/概率题/Rand7/Solution.java" />
-        <option value="$PROJECT_DIR$/51.数组中的逆序对/src/Solution.java" />
         <option value="$PROJECT_DIR$/52.两个链表的第一个公共节点/src/Solution.java" />
+        <option value="$PROJECT_DIR$/51.数组中的逆序对/src/Solution.java" />
+        <option value="$PROJECT_DIR$/53.数字在排序数组中出现的次数/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -231,7 +231,7 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="52.两个链表的第一个公共节点" type="462c0819:PsiDirectoryNode" />
+              <item name="53.数字在排序数组中出现的次数" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,14 +361,7 @@
       <workItem from="1562146478503" duration="7910000" />
       <workItem from="1562156786003" duration="27653000" />
       <workItem from="1562309234993" duration="2728000" />
-      <workItem from="1562408259986" duration="2374000" />
-    </task>
-    <task id="LOCAL-00022" summary="剑指OFFER">
-      <created>1560955382911</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1560955382911</updated>
+      <workItem from="1562408259986" duration="4537000" />
     </task>
     <task id="LOCAL-00023" summary="剑指OFFER">
       <created>1560955866610</created>
@@ -706,11 +699,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562410237042</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="剑指OFFER">
+      <created>1562410765092</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1562410765092</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136204000" />
+    <option name="totallyTimeSpent" value="138367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -827,13 +827,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/16. 数值的整数次方/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/16. 数值的整数次方[RE0703]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1149,21 +1142,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/51.数组中的逆序对/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/52.两个链表的第一个公共节点/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="616">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="e#196#197#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51.数组中的逆序对/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53.数字在排序数组中出现的次数/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
