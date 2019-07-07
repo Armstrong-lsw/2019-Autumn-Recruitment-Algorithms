@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/57.1.和为S的两个数字/57.1.和为S的两个数字.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/57.1.和为S的两个数字/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57.2.和为S的连续正数序列/57.2.和为S的连续正数序列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57.2.和为S的连续正数序列/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,14 +40,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/57.1.和为S的两个数字/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="220">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/57.2.和为S的连续正数序列/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="10" selection-start-line="10" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10.1 斐波那契数列[RE0624]/src/Solution.java" />
         <option value="$PROJECT_DIR$/10.2 矩形覆盖[RE0624]/src/Solution.java" />
         <option value="$PROJECT_DIR$/39.数组中出现次数超过一半的数字/src/Solution.java" />
         <option value="$PROJECT_DIR$/40.最小的K个数/src/Solution.java" />
@@ -190,6 +201,7 @@
         <option value="$PROJECT_DIR$/55.2.平衡二叉树/src/Solution.java" />
         <option value="$PROJECT_DIR$/56.数组中只出现一次的数字/src/Solution.java" />
         <option value="$PROJECT_DIR$/57.1.和为S的两个数字/src/Solution.java" />
+        <option value="$PROJECT_DIR$/57.2.和为S的连续正数序列/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -226,13 +238,7 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="57.1.和为S的两个数字" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="57.1.和为S的两个数字" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="57.2.和为S的连续正数序列" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -358,14 +364,7 @@
       <workItem from="1562156786003" duration="27653000" />
       <workItem from="1562309234993" duration="2728000" />
       <workItem from="1562408259986" duration="6738000" />
-      <workItem from="1562498834296" duration="3169000" />
-    </task>
-    <task id="LOCAL-00028" summary="剑指OFFER">
-      <created>1561124722591</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1561124722591</updated>
+      <workItem from="1562498834296" duration="4219000" />
     </task>
     <task id="LOCAL-00029" summary="剑指OFFER">
       <created>1561125651854</created>
@@ -703,17 +702,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562500377212</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="剑指OFFER">
+      <created>1562502226633</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1562502226633</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143737000" />
+    <option name="totallyTimeSpent" value="144787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.24200426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.24200426" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -722,7 +728,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -824,13 +830,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/选择排序/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/sort/冒泡排序/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1168,11 +1167,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/57.1.和为S的两个数字/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="220">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/57.2.和为S的连续正数序列/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="10" selection-start-line="10" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
