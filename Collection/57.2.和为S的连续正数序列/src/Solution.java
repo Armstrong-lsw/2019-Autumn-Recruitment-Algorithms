@@ -5,8 +5,7 @@
  * Time: 20:26
  * Description:
  * 输出所有和为 S 的连续正数序列。
- *
- * 例如和为 100 的连续序列有：
+ * 解题思路:借用滑动窗口的思想
  */
 import java.util.ArrayList;
 public class Solution {
