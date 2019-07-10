@@ -9,11 +9,6 @@ package normal;
  */
 public class BinarySearch {
 
-    public static void main(String[] args) {
-        int search = new BinarySearch().search(new int[]{1, 2, 3, 4, 5, 6}, 6);
-        System.out.println(search);
-    }
-
     public int search(int[] arr, int k) {
         int l = 0,h = arr.length - 1,mid;
         while (l <= h) {
