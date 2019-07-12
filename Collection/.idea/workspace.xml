@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/29.顺时针打印矩阵[RE0712].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/30.包含min函数的栈[RE0712].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,20 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0.面经算法/src/打印二叉树的左边界/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.面经算法/src/数据流的中位数/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,13 +88,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="616">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.基础算法/src/sort/Sort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/选择排序/Test.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/选择排序/SelectionSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/冒泡排序/BubbleSort.java" />
@@ -198,6 +199,7 @@
         <option value="$PROJECT_DIR$/27.二叉树的镜像[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/28.对称的二叉树[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -233,18 +235,12 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="29.顺时针打印矩阵" type="462c0819:PsiDirectoryNode" />
+              <item name="30.包含min函数的栈" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="29.顺时针打印矩阵[RE0712]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="29.顺时针打印矩阵[RE0712]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="30.包含min函数的栈[RE0712]" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -398,14 +394,7 @@
       <workItem from="1562498834296" duration="10634000" />
       <workItem from="1562672571737" duration="1835000" />
       <workItem from="1562755103268" duration="2227000" />
-      <workItem from="1562909777992" duration="6521000" />
-    </task>
-    <task id="LOCAL-00045" summary="剑指OFFER">
-      <created>1561811692806</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1561811692806</updated>
+      <workItem from="1562909777992" duration="7495000" />
     </task>
     <task id="LOCAL-00046" summary="剑指OFFER">
       <created>1561983216500</created>
@@ -743,11 +732,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562926103094</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="剑指OFFER">
+      <created>1562927141427</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1562927141427</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161785000" />
+    <option name="totallyTimeSpent" value="162759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -864,13 +860,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/24.反转链表[RE0705]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/25.合并两个排序的链表[RE0705]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1259,10 +1248,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="616">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
           </folding>
         </state>
       </provider>
