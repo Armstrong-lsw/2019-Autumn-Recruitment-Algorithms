@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0.基础算法/0.基础算法.iml" filepath="$PROJECT_DIR$/0.基础算法/0.基础算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/0.手撕代码.iml" filepath="$PROJECT_DIR$/0.手撕代码/0.手撕代码.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.数据结构/0.数据结构.iml" filepath="$PROJECT_DIR$/0.数据结构/0.数据结构.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.设计模式/0.设计模式.iml" filepath="$PROJECT_DIR$/0.设计模式/0.设计模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.面经算法/0.面经算法.iml" filepath="$PROJECT_DIR$/0.面经算法/0.面经算法.iml" />
@@ -42,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/29.顺时针打印矩阵/29.顺时针打印矩阵.iml" filepath="$PROJECT_DIR$/29.顺时针打印矩阵/29.顺时针打印矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/29.顺时针打印矩阵[RE0712].iml" filepath="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/29.顺时针打印矩阵[RE0712].iml" />
       <module fileurl="file://$PROJECT_DIR$/3. 数组中重复的数字/3. 数组中重复的数字.iml" filepath="$PROJECT_DIR$/3. 数组中重复的数字/3. 数组中重复的数字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/3. 数组中重复的数字[0713]/3. 数组中重复的数字[0713].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/3. 数组中重复的数字[0713]/3. 数组中重复的数字[0713].iml" />
       <module fileurl="file://$PROJECT_DIR$/3. 数组中重复的数字[RE0617]/3. 数组中重复的数字[RE0617].iml" filepath="$PROJECT_DIR$/3. 数组中重复的数字[RE0617]/3. 数组中重复的数字[RE0617].iml" />
       <module fileurl="file://$PROJECT_DIR$/30.包含min函数的栈/30.包含min函数的栈.iml" filepath="$PROJECT_DIR$/30.包含min函数的栈/30.包含min函数的栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/30.包含min函数的栈[RE0712]/30.包含min函数的栈[RE0712].iml" filepath="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/30.包含min函数的栈[RE0712].iml" />
@@ -63,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/38.字符串排序/38.字符串排序.iml" filepath="$PROJECT_DIR$/38.字符串排序/38.字符串排序.iml" />
       <module fileurl="file://$PROJECT_DIR$/39.数组中出现次数超过一半的数字/39.数组中出现次数超过一半的数字.iml" filepath="$PROJECT_DIR$/39.数组中出现次数超过一半的数字/39.数组中出现次数超过一半的数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. 二维数组中的查找/4. 二维数组中的查找.iml" filepath="$PROJECT_DIR$/4. 二维数组中的查找/4. 二维数组中的查找.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/4. 二维数组中的查找[0713]/4. 二维数组中的查找[0713].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/4. 二维数组中的查找[0713]/4. 二维数组中的查找[0713].iml" />
       <module fileurl="file://$PROJECT_DIR$/4. 二维数组中的查找[RE0617]/4. 二维数组中的查找[RE0617].iml" filepath="$PROJECT_DIR$/4. 二维数组中的查找[RE0617]/4. 二维数组中的查找[RE0617].iml" />
       <module fileurl="file://$PROJECT_DIR$/40.最小的K个数/40.最小的K个数.iml" filepath="$PROJECT_DIR$/40.最小的K个数/40.最小的K个数.iml" />
       <module fileurl="file://$PROJECT_DIR$/41.1数据流中的中位数/41.1数据流中的中位数.iml" filepath="$PROJECT_DIR$/41.1数据流中的中位数/41.1数据流中的中位数.iml" />
@@ -78,6 +81,7 @@
       <module fileurl="file://$PROJECT_DIR$/48.最长不含重复字符的字符串/48.最长不含重复字符的字符串.iml" filepath="$PROJECT_DIR$/48.最长不含重复字符的字符串/48.最长不含重复字符的字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/49.丑数/49.丑数.iml" filepath="$PROJECT_DIR$/49.丑数/49.丑数.iml" />
       <module fileurl="file://$PROJECT_DIR$/5. 替换空格/5. 替换空格.iml" filepath="$PROJECT_DIR$/5. 替换空格/5. 替换空格.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/5. 替换空格[0713].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/5. 替换空格[0713].iml" />
       <module fileurl="file://$PROJECT_DIR$/5. 替换空格[RE0617]/5. 替换空格[RE0617].iml" filepath="$PROJECT_DIR$/5. 替换空格[RE0617]/5. 替换空格[RE0617].iml" />
       <module fileurl="file://$PROJECT_DIR$/50.第一个只出现一次的字符位置/50.第一个只出现一次的字符位置.iml" filepath="$PROJECT_DIR$/50.第一个只出现一次的字符位置/50.第一个只出现一次的字符位置.iml" />
       <module fileurl="file://$PROJECT_DIR$/51.数组中的逆序对/51.数组中的逆序对.iml" filepath="$PROJECT_DIR$/51.数组中的逆序对/51.数组中的逆序对.iml" />
@@ -102,6 +106,7 @@
       <module fileurl="file://$PROJECT_DIR$/9. 用两个栈实现队列/9. 用两个栈实现队列.iml" filepath="$PROJECT_DIR$/9. 用两个栈实现队列/9. 用两个栈实现队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/9. 用两个栈实现队列[RE0624]/9. 用两个栈实现队列[RE0624].iml" filepath="$PROJECT_DIR$/9. 用两个栈实现队列[RE0624]/9. 用两个栈实现队列[RE0624].iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection.iml" filepath="$PROJECT_DIR$/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/剑指OFFER.iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/剑指OFFER.iml" />
     </modules>
   </component>
 </project>
