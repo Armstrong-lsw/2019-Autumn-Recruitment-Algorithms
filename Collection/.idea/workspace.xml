@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/0.手撕代码.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/3. 数组中重复的数字[0713]/3. 数组中重复的数字[0713].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/3. 数组中重复的数字[0713]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/4. 二维数组中的查找[0713]/4. 二维数组中的查找[0713].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/4. 二维数组中的查找[0713]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/5. 替换空格[0713].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/剑指OFFER.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/6. 从尾到头打印链表[0713]/6. 从尾到头打印链表[0713].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/6. 从尾到头打印链表[0713]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -97,26 +91,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5. 替换空格/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/6. 从尾到头打印链表[0713]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="352">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/5. 替换空格/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="484">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -145,8 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.基础算法/src/堆排序/HeapSort.java" />
-        <option value="$PROJECT_DIR$/0.基础算法/src/sort/SortTestHelper.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/快速排序/QuickSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/sort/快速排序/QuickSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/sort/Test.java" />
@@ -196,6 +191,8 @@
         <option value="$PROJECT_DIR$/34.二叉树中和为某一值的路径[RE0713]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/3. 数组中重复的数字[0713]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/4. 二维数组中的查找[0713]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/6. 从尾到头打印链表[0713]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -244,18 +241,7 @@
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
               <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
-              <item name="5. 替换空格[0713]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="5. 替换空格" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="5. 替换空格" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="6. 从尾到头打印链表[0713]" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -404,14 +390,7 @@
       <workItem from="1562672571737" duration="1835000" />
       <workItem from="1562755103268" duration="2227000" />
       <workItem from="1562909777992" duration="13210000" />
-      <workItem from="1563021537674" duration="8149000" />
-    </task>
-    <task id="LOCAL-00053" summary="剑指OFFER">
-      <created>1562153711171</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1562153711171</updated>
+      <workItem from="1563021537674" duration="8632000" />
     </task>
     <task id="LOCAL-00054" summary="剑指OFFER">
       <created>1562154403299</created>
@@ -749,14 +728,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563031832729</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="剑指OFFER">
+      <created>1563034642729</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1563034642729</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176623000" />
+    <option name="totallyTimeSpent" value="177106000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.2531983" />
@@ -870,13 +856,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/56.数组中只出现一次的数字/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1268,17 +1247,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/5. 替换空格/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="484">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. 替换空格/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/5. 替换空格[0713]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/6. 从尾到头打印链表[0713]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1332,7 +1321,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>17. 打印从 1 到最大的 n 位数[RE0703]</last-edited>
+          <last-edited>6. 从尾到头打印链表[RE0624]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
