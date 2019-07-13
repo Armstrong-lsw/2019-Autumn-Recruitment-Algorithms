@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/31.栈的压入、弹出序列[RE0713].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.2把二叉树打印成多行[RE0713]/32.2把二叉树打印成多行[RE0713].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.2把二叉树打印成多行[RE0713]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,25 +26,7 @@
         <entry file="file://$PROJECT_DIR$/31.栈的压入、弹出序列/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27.二叉树的镜像[RE0712]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/28.对称的二叉树/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -83,11 +64,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="29" />
+            <state relative-caret-position="638">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树[RE0713]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/32.2把二叉树打印成多行[RE0713]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="24" selection-start-line="24" selection-end-line="49" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.基础算法/src/选择排序/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/0.基础算法/src/冒泡排序/BubbleSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/插入排序/InsertionSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/希尔排序/ShellSort.java" />
         <option value="$PROJECT_DIR$/0.基础算法/src/归并排序/MergeSort.java" />
@@ -204,6 +207,8 @@
         <option value="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/32.1从上往下打印二叉树[RE0713]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/32.2把二叉树打印成多行[RE0713]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -239,24 +244,7 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="31.栈的压入、弹出序列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="31.栈的压入、弹出序列" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="31.栈的压入、弹出序列[RE0713]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="31.栈的压入、弹出序列[RE0713]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="32.2把二叉树打印成多行[RE0713]" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -411,21 +399,7 @@
       <workItem from="1562672571737" duration="1835000" />
       <workItem from="1562755103268" duration="2227000" />
       <workItem from="1562909777992" duration="13210000" />
-      <workItem from="1563021537674" duration="463000" />
-    </task>
-    <task id="LOCAL-00047" summary="剑指OFFER">
-      <created>1562146781135</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1562146781135</updated>
-    </task>
-    <task id="LOCAL-00048" summary="剑指OFFER">
-      <created>1562147324991</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1562147324991</updated>
+      <workItem from="1563021537674" duration="1031000" />
     </task>
     <task id="LOCAL-00049" summary="剑指OFFER">
       <created>1562148362494</created>
@@ -756,11 +730,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562928075039</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="剑指OFFER">
+      <created>1563022028386</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1563022028387</updated>
+    </task>
+    <task id="LOCAL-00097" summary="剑指OFFER">
+      <created>1563022305536</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1563022305536</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168937000" />
+    <option name="totallyTimeSpent" value="169505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -877,20 +865,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/24.反转链表/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22.链表中倒数第K个节点/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0.基础算法/src/概率题/Rand7/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
@@ -1282,14 +1256,34 @@
     <entry file="file://$PROJECT_DIR$/31.栈的压入、弹出序列/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="29" />
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树[RE0713]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.2把二叉树打印成多行[RE0713]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" selection-start-line="24" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
