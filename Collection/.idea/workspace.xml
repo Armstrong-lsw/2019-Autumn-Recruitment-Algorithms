@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/35.复杂链表的复制[RE0714]/35.复杂链表的复制[RE0714].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,15 +26,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="18" selection-start-line="18" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="385">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="e#233#234#0" expanded="true" />
                 <element signature="e#267#268#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/38.字符串排序/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -153,17 +157,6 @@
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="35.复杂链表的复制[RE0714]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="35.复杂链表的复制[RE0714]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -246,14 +239,7 @@
       <workItem from="1562755103268" duration="2227000" />
       <workItem from="1562909777992" duration="13210000" />
       <workItem from="1563021537674" duration="9883000" />
-      <workItem from="1563075428208" duration="978000" />
-    </task>
-    <task id="LOCAL-00055" summary="剑指OFFER">
-      <created>1562158681338</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1562158681339</updated>
+      <workItem from="1563075428208" duration="1267000" />
     </task>
     <task id="LOCAL-00056" summary="剑指OFFER">
       <created>1562162304341</created>
@@ -591,17 +577,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563035073877</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="剑指OFFER">
+      <created>1563076562627</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1563076562627</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179335000" />
+    <option name="totallyTimeSpent" value="179624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.25586355" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.25586355" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -713,17 +706,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/57.1.和为S的两个数字/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/57.2.和为S的连续正数序列/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1129,12 +1111,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="18" selection-start-line="18" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="385">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
             <element signature="e#233#234#0" expanded="true" />
             <element signature="e#267#268#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/38.字符串排序/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
