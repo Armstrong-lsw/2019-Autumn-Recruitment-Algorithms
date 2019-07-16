@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Create with 10.4 变态跳台阶
  * User: 许清远
@@ -9,19 +11,15 @@
  * 解题思路：https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%2010~19.md
  */
 public class Solution {
-    public int JumpFloorII(int target) throws Exception {
-
-        if (target < 0) {
-            throw new Exception("Index is illegal");
+    public int JumpFloorII(int target) {
+        if (target <= 1) return target;
+        int[] dp = new int[target + 1];
+        Arrays.fill(dp, 1);
+        for (int i = 1; i <= target; i++) {
+            for (int j = 1; j < i; j++) {
+                dp[i] += dp[j];
+            }
         }
-
-        if (target == 0) {
-            return 0;
-        } else if (target == 1) {
-            return 1;
-        }
-
-        return  2 * JumpFloorII(target - 1);
-
+        return dp[target];
     }
 }
