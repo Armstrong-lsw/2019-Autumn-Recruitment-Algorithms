@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/10.4 变态跳台阶[未完成]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/10.4 变态跳台阶[未完成]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.旋转数组的最小数字/11.旋转数组的最小数字.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/9. 用两个栈实现队列[0715]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#183#192#0" expanded="true" />
-                <element signature="e#233#242#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/41.2数据流中第一个不重复的字符/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,16 +62,34 @@
         <entry file="file://$PROJECT_DIR$/45.把数组排成最小的数[RE0716]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.4 变态跳台阶/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.3 跳台阶/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10.4 变态跳台阶[未完成]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" selection-start-line="12" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -103,15 +108,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
               <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7. 重建二叉树[RE0624]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="1" selection-start-line="12" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -140,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/52.两个链表的第一个公共节点/src/Solution.java" />
         <option value="$PROJECT_DIR$/51.数组中的逆序对/src/Solution.java" />
         <option value="$PROJECT_DIR$/53.数字在排序数组中出现的次数/src/Solution.java" />
         <option value="$PROJECT_DIR$/54.二叉查找树的第K个节点/src/Solution.java" />
@@ -191,6 +186,7 @@
         <option value="$PROJECT_DIR$/44.数字序列中的某一位数字[RE0716]/src/Solution.java" />
         <option value="$PROJECT_DIR$/45.把数组排成最小的数[RE0716]/src/Solution.java" />
         <option value="$PROJECT_DIR$/10.4 变态跳台阶[未完成]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -227,13 +223,7 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="10.4 变态跳台阶[未完成]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="10.4 变态跳台阶[未完成]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="11.旋转数组的最小数字" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -343,14 +333,7 @@
       <workItem from="1563075428208" duration="8590000" />
       <workItem from="1563097311511" duration="2376000" />
       <workItem from="1563159053429" duration="9400000" />
-      <workItem from="1563248201861" duration="4875000" />
-    </task>
-    <task id="LOCAL-00067" summary="剑指OFFER">
-      <created>1562299512455</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1562299512455</updated>
+      <workItem from="1563248201861" duration="8271000" />
     </task>
     <task id="LOCAL-00068" summary="剑指OFFER">
       <created>1562300161030</created>
@@ -688,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563261059059</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="剑指OFFER">
+      <created>1563261779092</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1563261779092</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203598000" />
+    <option name="totallyTimeSpent" value="206994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -810,20 +800,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/28.对称的二叉树/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/28.对称的二叉树[RE0712]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" selection-start-line="21" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1204,14 +1180,28 @@
     <entry file="file://$PROJECT_DIR$/45.把数组排成最小的数[RE0716]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.4 变态跳台阶[未完成]/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/10.4 变态跳台阶/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.3 跳台阶/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
