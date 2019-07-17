@@ -1,3 +1,5 @@
+import java.util.Comparator;
+
 /**
  * Create with Collection
  * User: 许清远
@@ -23,5 +25,7 @@ public class Solution {
         return array[l];
 
     }
+
+
 
 }
