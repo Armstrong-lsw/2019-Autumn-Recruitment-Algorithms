@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/16. 数值的整数次方[0717]/16. 数值的整数次方[0717].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/16. 数值的整数次方[0717]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/21.调整数组顺序使奇数位于偶数前面[0717]/21.调整数组顺序使奇数位于偶数前面[0717].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/21.调整数组顺序使奇数位于偶数前面[0717]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/22.链表中倒数第K个节点[0717]/22.链表中倒数第K个节点[0717].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/22.链表中倒数第K个节点[0717]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0717][N]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/10.1 斐波那契数列[0717].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.3 跳台阶[0717]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.4 变态跳台阶/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.3 跳台阶/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/22.链表中倒数第K个节点[0717]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#207#208#0" expanded="true" />
@@ -86,11 +63,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0717][N]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26.树的子结构/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0717][N]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.3 跳台阶[0717]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="8" />
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -100,24 +117,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1345">
               <caret line="218" column="5" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/44.数字序列中的某一位数字/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/43.从1到n整数中1出现的次数/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -146,11 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/55.1.二叉树的深度/src/Solution.java" />
-        <option value="$PROJECT_DIR$/55.2.平衡二叉树/src/Solution.java" />
-        <option value="$PROJECT_DIR$/56.数组中只出现一次的数字/src/Solution.java" />
-        <option value="$PROJECT_DIR$/57.1.和为S的两个数字/src/Solution.java" />
-        <option value="$PROJECT_DIR$/57.2.和为S的连续正数序列/src/Solution.java" />
         <option value="$PROJECT_DIR$/58.1.翻转单词顺序列/src/Solution.java" />
         <option value="$PROJECT_DIR$/58.2.左旋转字符串/src/Solution.java" />
         <option value="$PROJECT_DIR$/59.滑动窗口的最大值/src/Solution.java" />
@@ -197,6 +191,11 @@
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/16. 数值的整数次方[0717]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/21.调整数组顺序使奇数位于偶数前面[0717]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/22.链表中倒数第K个节点[0717]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0717][N]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/26.树的子结构[未完成]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0717][N]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Soluton.java" />
+        <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -246,14 +245,14 @@
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
               <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
-              <item name="24.反转链表[0717][N]" type="462c0819:PsiDirectoryNode" />
+              <item name="10.3 跳台阶[0717]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
               <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
-              <item name="24.反转链表[0717][N]" type="462c0819:PsiDirectoryNode" />
+              <item name="10.3 跳台阶[0717]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -368,14 +367,7 @@
       <workItem from="1563097311511" duration="2376000" />
       <workItem from="1563159053429" duration="9400000" />
       <workItem from="1563248201861" duration="8924000" />
-      <workItem from="1563355156302" duration="2380000" />
-    </task>
-    <task id="LOCAL-00069" summary="剑指OFFER">
-      <created>1562310103179</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1562310103179</updated>
+      <workItem from="1563355156302" duration="3763000" />
     </task>
     <task id="LOCAL-00070" summary="剑指OFFER">
       <created>1562410237042</created>
@@ -713,11 +705,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563266566762</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="剑指OFFER">
+      <created>1563360329723</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1563360329724</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210027000" />
+    <option name="totallyTimeSpent" value="211410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -835,50 +834,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31.栈的压入、弹出序列/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/32.2把二叉树打印成多行[RE0713]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树[RE0713]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/32.3按之字形顺序打印二叉树[RE0713]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1209,8 +1164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/22.链表中倒数第K个节点[0717]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="e#177#178#0" expanded="true" />
             <element signature="e#207#208#0" expanded="true" />
@@ -1220,8 +1175,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0717][N]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26.树的子结构/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Soluton.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0717][N]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.3 跳台阶[0717]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
