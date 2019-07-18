@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Create with Collection
  * User: 许清远

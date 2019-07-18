@@ -16,7 +16,7 @@ public class Solution {
         for (int i = 0; i < numbers.length; i++) {
             nums[i] = numbers[i] + "";
         }
-        Arrays.sort(nums, ((o1, o2) -> (o1 + o2).compareTo(o2 + o1)));
+        Arrays.sort(nums, (o1, o2) -> (o1 + o2).compareTo(o2 + o1));
         StringBuilder res = new StringBuilder();
         for (String num : nums) {
             res.append(num);
