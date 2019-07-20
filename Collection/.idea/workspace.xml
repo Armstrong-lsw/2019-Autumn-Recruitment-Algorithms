@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/18.2 删除链表中重复的结点[0720][N]/18.2 删除链表中重复的结点[0720][N].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/23.链表中环的入口节点[0720]/23.链表中环的入口节点[0720].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/25.合并两个排序的链表[0720]/25.合并两个排序的链表[0720].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/27.二叉树的镜像[0720]/27.二叉树的镜像[0720].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/28.对称的二叉树[0720]/28.对称的二叉树[0720].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/29.顺时针打印矩阵[0720]/29.顺时针打印矩阵[0720].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/30.包含min函数的栈[0720]/30.包含min函数的栈[0720].iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/17. 打印从 1 到最大的 n 位数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/17. 打印从 1 到最大的 n 位数/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -368,14 +368,7 @@
       <workItem from="1563355156302" duration="4628000" />
       <workItem from="1563372397565" duration="1842000" />
       <workItem from="1563438414583" duration="4901000" />
-      <workItem from="1563624840637" duration="5731000" />
-    </task>
-    <task id="LOCAL-00074" summary="剑指OFFER">
-      <created>1562414007022</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1562414007022</updated>
+      <workItem from="1563624840637" duration="7722000" />
     </task>
     <task id="LOCAL-00075" summary="剑指OFFER">
       <created>1562414531398</created>
@@ -713,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563628722379</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="剑指OFFER">
+      <created>1563630822798</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1563630822798</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224749000" />
+    <option name="totallyTimeSpent" value="226740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1255,7 +1255,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>4. 二维数组中的查找[0713]</last-edited>
+          <last-edited>剑指OFFER</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
