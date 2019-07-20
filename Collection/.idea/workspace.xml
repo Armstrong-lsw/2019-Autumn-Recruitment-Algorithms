@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/15. 二进制中 1 的个数[0720]/15. 二进制中 1 的个数[0720].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/17. 打印从 1 到最大的 n 位数[0720][N].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/17. 打印从 1 到最大的 n 位数[0723][N].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0720][N]/24.反转链表[0720][N].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0720][N]/26.树的子结构[0720][N].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/7. 重建二叉树[0720][N]/7. 重建二叉树[0720][N].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/18.2 删除链表中重复的结点[0720][N]/18.2 删除链表中重复的结点[0720][N].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/23.链表中环的入口节点[0720]/23.链表中环的入口节点[0720].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/25.合并两个排序的链表[0720]/25.合并两个排序的链表[0720].iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/17. 打印从 1 到最大的 n 位数/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/17. 打印从 1 到最大的 n 位数/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="638">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="e#191#192#0" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
@@ -88,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-317">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="321">
+              <caret line="46" column="29" selection-start-line="38" selection-start-column="8" selection-end-line="46" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -241,43 +238,6 @@
               <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
               <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
-              <item name="17. 打印从 1 到最大的 n 位数[0720][N]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
-              <item name="17. 打印从 1 到最大的 n 位数[0720][N]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="17. 打印从 1 到最大的 n 位数" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="17. 打印从 1 到最大的 n 位数" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="19. 正则表达式匹配[未完成]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="19. 正则表达式匹配[未完成]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -408,14 +368,7 @@
       <workItem from="1563355156302" duration="4628000" />
       <workItem from="1563372397565" duration="1842000" />
       <workItem from="1563438414583" duration="4901000" />
-      <workItem from="1563624840637" duration="3613000" />
-    </task>
-    <task id="LOCAL-00073" summary="剑指OFFER">
-      <created>1562413680576</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1562413680576</updated>
+      <workItem from="1563624840637" duration="5731000" />
     </task>
     <task id="LOCAL-00074" summary="剑指OFFER">
       <created>1562414007022</created>
@@ -753,17 +706,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563453486098</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="剑指OFFER">
+      <created>1563628722379</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1563628722379</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222631000" />
+    <option name="totallyTimeSpent" value="224749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.27452025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.27452025" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -772,7 +731,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4273319" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4273319" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1229,15 +1188,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="321">
+          <caret line="46" column="29" selection-start-line="38" selection-start-column="8" selection-end-line="46" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        <state relative-caret-position="638">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#209#210#0" expanded="true" />
@@ -1296,7 +1255,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>调整数组顺序使奇数位于偶数前面[RE0705]|21</last-edited>
+          <last-edited>4. 二维数组中的查找[0713]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
