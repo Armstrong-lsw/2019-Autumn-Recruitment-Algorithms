@@ -20,11 +20,14 @@
       <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.4 变态跳台阶[0717]/10.4 变态跳台阶[0717].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.4 变态跳台阶[0717]/10.4 变态跳台阶[0717].iml" />
       <module fileurl="file://$PROJECT_DIR$/11.旋转数组的最小数字/11.旋转数组的最小数字.iml" filepath="$PROJECT_DIR$/11.旋转数组的最小数字/11.旋转数组的最小数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/15. 二进制中 1 的个数/15. 二进制中 1 的个数.iml" filepath="$PROJECT_DIR$/15. 二进制中 1 的个数/15. 二进制中 1 的个数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/15. 二进制中 1 的个数[0720]/15. 二进制中 1 的个数[0720].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/15. 二进制中 1 的个数[0720]/15. 二进制中 1 的个数[0720].iml" />
       <module fileurl="file://$PROJECT_DIR$/15. 二进制中 1 的个数[RE0703]/15. 二进制中 1 的个数[RE0703].iml" filepath="$PROJECT_DIR$/15. 二进制中 1 的个数[RE0703]/15. 二进制中 1 的个数[RE0703].iml" />
       <module fileurl="file://$PROJECT_DIR$/16. 数值的整数次方/16. 数值的整数次方.iml" filepath="$PROJECT_DIR$/16. 数值的整数次方/16. 数值的整数次方.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/16. 数值的整数次方[0717]/16. 数值的整数次方[0717].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/16. 数值的整数次方[0717]/16. 数值的整数次方[0717].iml" />
       <module fileurl="file://$PROJECT_DIR$/16. 数值的整数次方[RE0703]/16. 数值的整数次方[RE0703].iml" filepath="$PROJECT_DIR$/16. 数值的整数次方[RE0703]/16. 数值的整数次方[RE0703].iml" />
       <module fileurl="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/17. 打印从 1 到最大的 n 位数.iml" filepath="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数/17. 打印从 1 到最大的 n 位数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/17. 打印从 1 到最大的 n 位数[0720][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/17. 打印从 1 到最大的 n 位数[0720][N].iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/17. 打印从 1 到最大的 n 位数[0723][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/17. 打印从 1 到最大的 n 位数[0723][N].iml" />
       <module fileurl="file://$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数[RE0703]/17. 打印从 1 到最大的 n 位数[RE0703].iml" filepath="$PROJECT_DIR$/17. 打印从 1 到最大的 n 位数[RE0703]/17. 打印从 1 到最大的 n 位数[RE0703].iml" />
       <module fileurl="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点/18.1 在 O(1) 时间内删除链表节点.iml" filepath="$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点/18.1 在 O(1) 时间内删除链表节点.iml" />
       <module fileurl="file://$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/18.1 在 O(1) 时间内删除链表节点[RE0703].iml" filepath="$PROJECT_DIR$/18.1 在 O(1) 时间内删除链表节点[RE0703]/18.1 在 O(1) 时间内删除链表节点[RE0703].iml" />
@@ -41,11 +44,13 @@
       <module fileurl="file://$PROJECT_DIR$/23.链表中坏的入口节点[RE0705]/23.链表中坏的入口节点[RE0705].iml" filepath="$PROJECT_DIR$/23.链表中坏的入口节点[RE0705]/23.链表中坏的入口节点[RE0705].iml" />
       <module fileurl="file://$PROJECT_DIR$/24.反转链表/24.反转链表.iml" filepath="$PROJECT_DIR$/24.反转链表/24.反转链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0717][N]/24.反转链表[0717][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0717][N]/24.反转链表[0717][N].iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0720][N]/24.反转链表[0720][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/24.反转链表[0720][N]/24.反转链表[0720][N].iml" />
       <module fileurl="file://$PROJECT_DIR$/24.反转链表[RE0705]/24.反转链表[RE0705].iml" filepath="$PROJECT_DIR$/24.反转链表[RE0705]/24.反转链表[RE0705].iml" />
       <module fileurl="file://$PROJECT_DIR$/25.合并两个排序的链表/25.合并两个排序的链表.iml" filepath="$PROJECT_DIR$/25.合并两个排序的链表/25.合并两个排序的链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/25.合并两个排序的链表[RE0705]/25.合并两个排序的链表[RE0705].iml" filepath="$PROJECT_DIR$/25.合并两个排序的链表[RE0705]/25.合并两个排序的链表[RE0705].iml" />
       <module fileurl="file://$PROJECT_DIR$/26.树的子结构/26.树的子结构.iml" filepath="$PROJECT_DIR$/26.树的子结构/26.树的子结构.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0717][N]/26.树的子结构[0717][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0717][N]/26.树的子结构[0717][N].iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0720][N]/26.树的子结构[0720][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0720][N]/26.树的子结构[0720][N].iml" />
       <module fileurl="file://$PROJECT_DIR$/27.二叉树的镜像/27.二叉树的镜像.iml" filepath="$PROJECT_DIR$/27.二叉树的镜像/27.二叉树的镜像.iml" />
       <module fileurl="file://$PROJECT_DIR$/27.二叉树的镜像[RE0712]/27.二叉树的镜像[RE0712].iml" filepath="$PROJECT_DIR$/27.二叉树的镜像[RE0712]/27.二叉树的镜像[RE0712].iml" />
       <module fileurl="file://$PROJECT_DIR$/28.对称的二叉树/28.对称的二叉树.iml" filepath="$PROJECT_DIR$/28.对称的二叉树/28.对称的二叉树.iml" />
@@ -122,6 +127,7 @@
       <module fileurl="file://$PROJECT_DIR$/60.n个骰子的点数/60.n个骰子的点数.iml" filepath="$PROJECT_DIR$/60.n个骰子的点数/60.n个骰子的点数.iml" />
       <module fileurl="file://$PROJECT_DIR$/7. 重建二叉树/7. 重建二叉树.iml" filepath="$PROJECT_DIR$/7. 重建二叉树/7. 重建二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/7. 重建二叉树[0714]/7. 重建二叉树[0714].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/7. 重建二叉树[0714]/7. 重建二叉树[0714].iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/7. 重建二叉树[0720][N]/7. 重建二叉树[0720][N].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/7. 重建二叉树[0720][N]/7. 重建二叉树[0720][N].iml" />
       <module fileurl="file://$PROJECT_DIR$/7. 重建二叉树[RE0624]/7. 重建二叉树[RE0624].iml" filepath="$PROJECT_DIR$/7. 重建二叉树[RE0624]/7. 重建二叉树[RE0624].iml" />
       <module fileurl="file://$PROJECT_DIR$/8. 二叉树的下一个结点/8. 二叉树的下一个结点.iml" filepath="$PROJECT_DIR$/8. 二叉树的下一个结点/8. 二叉树的下一个结点.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/8. 二叉树的下一个结点[0714]/8. 二叉树的下一个结点[0714].iml" filepath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/8. 二叉树的下一个结点[0714]/8. 二叉树的下一个结点[0714].iml" />
