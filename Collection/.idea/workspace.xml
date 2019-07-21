@@ -6,6 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/26.树的子结构[0721]/26.树的子结构[0721].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/32.2把二叉树打印成多行[0721]/32.2把二叉树打印成多行[0721].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/32.3按之字形顺序打印二叉树[0721]/32.3按之字形顺序打印二叉树[0721].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2460">
+            <state relative-caret-position="289">
               <caret line="2255" column="38" selection-start-line="2255" selection-start-column="37" selection-end-line="2255" selection-end-column="38" />
               <folding>
                 <element signature="e#32334#32335#0" expanded="true" />
@@ -56,6 +61,15 @@
                 <element signature="e#93710#93711#0" expanded="true" />
                 <element signature="e#93797#93798#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -218,10 +232,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2800" />
-    <option name="y" value="280" />
-    <option name="width" value="2420" />
-    <option name="height" value="1100" />
+    <option name="x" value="-180" />
+    <option name="y" value="63" />
+    <option name="width" value="1936" />
+    <option name="height" value="880" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -249,6 +263,21 @@
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
               <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
+              <item name="33.二叉搜索树的后续遍历序列[0721][N]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
+              <item name="33.二叉搜索树的后续遍历序列[0721][N]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -397,14 +426,7 @@
       <workItem from="1563372397565" duration="1842000" />
       <workItem from="1563438414583" duration="4901000" />
       <workItem from="1563624840637" duration="8605000" />
-      <workItem from="1563676109840" duration="15267000" />
-    </task>
-    <task id="LOCAL-00078" summary="剑指OFFER">
-      <created>1562503167922</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1562503167922</updated>
+      <workItem from="1563676109840" duration="16597000" />
     </task>
     <task id="LOCAL-00079" summary="剑指OFFER">
       <created>1562503229298</created>
@@ -742,16 +764,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563698560821</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="剑指OFFER">
+      <created>1563719567620</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1563719567621</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242890000" />
+    <option name="totallyTimeSpent" value="244220000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.28351206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -864,13 +894,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10.3 跳台阶/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/43.从1到n整数中1出现的次数/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1235,7 +1258,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
+        <state relative-caret-position="289">
           <caret line="2255" column="38" selection-start-line="2255" selection-start-column="37" selection-end-line="2255" selection-end-column="38" />
           <folding>
             <element signature="e#32334#32335#0" expanded="true" />
@@ -1247,6 +1270,13 @@
             <element signature="e#93710#93711#0" expanded="true" />
             <element signature="e#93797#93798#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
