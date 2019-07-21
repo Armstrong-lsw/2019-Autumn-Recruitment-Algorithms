@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/31.栈的压入、弹出序列[0720]/31.栈的压入、弹出序列[0720].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/32.1从上往下打印二叉树[0720]/32.1从上往下打印二叉树[0720].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.面试其他/0.面试其他.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,17 +60,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+            <state relative-caret-position="237">
+              <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-789">
-              <caret line="1780" column="52" lean-forward="true" selection-start-line="1780" selection-start-column="52" selection-end-line="1780" selection-end-column="52" />
+            <state relative-caret-position="130">
+              <caret line="1775" column="21" lean-forward="true" selection-start-line="1775" selection-start-column="21" selection-end-line="1775" selection-end-column="21" />
               <folding>
                 <element signature="e#24331#24332#0" expanded="true" />
                 <element signature="e#24396#24397#0" expanded="true" />
@@ -83,13 +79,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
                 <element signature="e#336#337#0" expanded="true" />
                 <element signature="e#376#377#0" expanded="true" />
               </folding>
@@ -100,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="418">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
+            <state relative-caret-position="302">
+              <caret line="309" column="27" lean-forward="true" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -143,6 +141,7 @@
       <find>modC</find>
       <find>L</find>
       <find>writeObject</find>
+      <find>afterNodeIn</find>
       <find>afterNodeA</find>
     </findStrings>
   </component>
@@ -202,8 +201,8 @@
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0720][N]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Son.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Main.java" />
-        <option value="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" />
         <option value="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" />
+        <option value="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" />
       </list>
     </option>
   </component>
@@ -240,6 +239,19 @@
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
               <item name="0.面试其他" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="0.面试其他" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="0.面试其他" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUcache" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
@@ -418,14 +430,7 @@
       <workItem from="1563372397565" duration="1842000" />
       <workItem from="1563438414583" duration="4901000" />
       <workItem from="1563624840637" duration="8605000" />
-      <workItem from="1563676109840" duration="9259000" />
-    </task>
-    <task id="LOCAL-00076" summary="剑指OFFER">
-      <created>1562500377212</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1562500377212</updated>
+      <workItem from="1563676109840" duration="9827000" />
     </task>
     <task id="LOCAL-00077" summary="剑指OFFER">
       <created>1562502226633</created>
@@ -763,17 +768,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563633164734</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="剑指OFFER">
+      <created>1563698080946</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1563698080946</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236882000" />
+    <option name="totallyTimeSpent" value="237450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.22547974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1160,6 +1172,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-743">
+          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
@@ -1189,75 +1229,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-743">
-          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        <state relative-caret-position="237">
+          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
+        <state relative-caret-position="302">
+          <caret line="309" column="27" lean-forward="true" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Test.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="130">
+          <caret line="1775" column="21" lean-forward="true" selection-start-line="1775" selection-start-column="21" selection-end-line="1775" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="418">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-789">
-          <caret line="1780" column="52" lean-forward="true" selection-start-line="1780" selection-start-column="52" selection-end-line="1780" selection-end-column="52" />
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
           </folding>
         </state>
       </provider>

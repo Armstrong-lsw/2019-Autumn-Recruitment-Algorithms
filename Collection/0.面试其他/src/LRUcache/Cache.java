@@ -14,6 +14,10 @@ public class Cache<K,V> extends LinkedHashMap<K,V> {
 
     private static final int MAX_LIMIT = 3;
 
+    public Cache() {
+        super(MAX_LIMIT, 0.75f, true);
+    }
+
     @Override
     protected boolean removeEldestEntry(Map.Entry eldest) {
         return size() > MAX_LIMIT;

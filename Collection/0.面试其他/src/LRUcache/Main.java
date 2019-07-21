@@ -18,6 +18,7 @@ public class Main {
         cache.put(1, 1);
         cache.put(2, 2);
         cache.put(3, 3);
+        Integer integer = cache.get(1);
         cache.put(4, 4);
         cache.put(5, 5);
         System.out.println(cache.size());
