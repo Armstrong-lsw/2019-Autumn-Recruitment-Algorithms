@@ -2,12 +2,11 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java" line="475" />
+    <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java" line="2255" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,17 +41,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="2688" column="61" selection-start-line="2688" selection-start-column="61" selection-end-line="2688" selection-end-column="61" />
+            <state relative-caret-position="2460">
+              <caret line="2255" column="38" selection-start-line="2255" selection-start-column="37" selection-end-line="2255" selection-end-column="38" />
               <folding>
                 <element signature="e#32334#32335#0" expanded="true" />
                 <element signature="e#32385#32386#0" expanded="true" />
                 <element signature="e#44347#44348#0" expanded="true" />
                 <element signature="e#44395#44396#0" expanded="true" />
+                <element signature="e#48122#48123#0" expanded="true" />
+                <element signature="e#48173#48174#0" expanded="true" />
+                <element signature="e#93710#93711#0" expanded="true" />
+                <element signature="e#93797#93798#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="977" column="5" selection-start-line="977" selection-start-column="5" selection-end-line="977" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -60,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -69,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="1775" column="21" lean-forward="true" selection-start-line="1775" selection-start-column="21" selection-end-line="1775" selection-end-column="21" />
+            <state relative-caret-position="30380">
+              <caret line="1778" column="5" selection-start-line="1778" selection-start-column="5" selection-end-line="1778" selection-end-column="5" />
               <folding>
                 <element signature="e#24331#24332#0" expanded="true" />
                 <element signature="e#24396#24397#0" expanded="true" />
@@ -79,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="550">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#289#290#0" expanded="true" />
@@ -99,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,19 +120,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-743">
-              <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="309" column="27" lean-forward="true" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
+            <state relative-caret-position="417">
+              <caret line="313" column="28" selection-start-line="313" selection-start-column="28" selection-end-line="313" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -141,8 +144,9 @@
       <find>modC</find>
       <find>L</find>
       <find>writeObject</find>
-      <find>afterNodeIn</find>
       <find>afterNodeA</find>
+      <find>afterNodeIn</find>
+      <find>resize</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,8 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.面经算法/src/数据流的中位数/Solution.java" />
-        <option value="$PROJECT_DIR$/0.面经算法/src/左边奇数右边偶数/Solution.java" />
         <option value="$PROJECT_DIR$/27.二叉树的镜像[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/28.对称的二叉树[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java" />
@@ -203,6 +205,8 @@
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/17. 打印从 1 到最大的 n 位数[0723][N]/src/Main.java" />
         <option value="$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java" />
         <option value="$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java" />
+        <option value="$PROJECT_DIR$/0.面试其他/src/WeakTest.java" />
+        <option value="$PROJECT_DIR$/0.面试其他/src/Test.java" />
       </list>
     </option>
   </component>
@@ -214,10 +218,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-325" />
-    <option name="y" value="45" />
-    <option name="width" value="1936" />
-    <option name="height" value="880" />
+    <option name="x" value="-2800" />
+    <option name="y" value="280" />
+    <option name="width" value="2420" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -238,50 +242,13 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.面试其他" type="462c0819:PsiDirectoryNode" />
+              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.面试其他" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.面试其他" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LRUcache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.WeakTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LRUcache.Main" />
       <module name="0.面试其他" />
@@ -368,20 +335,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="38.字符串排序" />
+    <configuration name="WeakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeakTest" />
+      <module name="0.面试其他" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeakTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -430,14 +397,7 @@
       <workItem from="1563372397565" duration="1842000" />
       <workItem from="1563438414583" duration="4901000" />
       <workItem from="1563624840637" duration="8605000" />
-      <workItem from="1563676109840" duration="9827000" />
-    </task>
-    <task id="LOCAL-00077" summary="剑指OFFER">
-      <created>1562502226633</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1562502226633</updated>
+      <workItem from="1563676109840" duration="15267000" />
     </task>
     <task id="LOCAL-00078" summary="剑指OFFER">
       <created>1562503167922</created>
@@ -775,23 +735,29 @@
       <option name="project" value="LOCAL" />
       <updated>1563698080946</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="剑指OFFER">
+      <created>1563698560821</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1563698560821</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237450000" />
+    <option name="totallyTimeSpent" value="242890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.22547974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.28351206" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5032538" side_tool="true" weight="0.27771854" />
+      <window_info id="Favorites" order="6" sideWeight="0.5032538" side_tool="true" weight="0.22547974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4273319" />
@@ -817,16 +783,16 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.23400854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
+      <window_info id="Favorites" order="6" sideWeight="0.5032538" side_tool="true" weight="0.27771854" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4273319" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -837,6 +803,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -897,27 +864,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/43.从1到n整数中1出现的次数[RE0716]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/45.把数组排成最小的数[RE0716]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.4 变态跳台阶/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10.3 跳台阶/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1214,37 +1160,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="2688" column="61" selection-start-line="2688" selection-start-column="61" selection-end-line="2688" selection-end-column="61" />
+        <state relative-caret-position="418">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
-            <element signature="e#32334#32335#0" expanded="true" />
-            <element signature="e#32385#32386#0" expanded="true" />
-            <element signature="e#44347#44348#0" expanded="true" />
-            <element signature="e#44395#44396#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="309" column="27" lean-forward="true" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="1775" column="21" lean-forward="true" selection-start-line="1775" selection-start-column="21" selection-end-line="1775" selection-end-column="21" />
+        <state relative-caret-position="30380">
+          <caret line="1778" column="5" selection-start-line="1778" selection-start-column="5" selection-end-line="1778" selection-end-column="5" />
           <folding>
             <element signature="e#24331#24332#0" expanded="true" />
             <element signature="e#24396#24397#0" expanded="true" />
@@ -1252,10 +1181,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Main.java">
+    <entry file="file://$PROJECT_DIR$/0.数据结构/src/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="105">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="313" column="28" selection-start-line="313" selection-start-column="28" selection-end-line="313" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.面试其他/src/WeakTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1264,14 +1207,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0.面试其他/src/LRUcache/Cache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#289#290#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#336#337#0" expanded="true" />
             <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="977" column="5" selection-start-line="977" selection-start-column="5" selection-end-line="977" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.面试其他/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="2255" column="38" selection-start-line="2255" selection-start-column="37" selection-end-line="2255" selection-end-column="38" />
+          <folding>
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+            <element signature="e#48122#48123#0" expanded="true" />
+            <element signature="e#48173#48174#0" expanded="true" />
+            <element signature="e#93710#93711#0" expanded="true" />
+            <element signature="e#93797#93798#0" expanded="true" />
           </folding>
         </state>
       </provider>
