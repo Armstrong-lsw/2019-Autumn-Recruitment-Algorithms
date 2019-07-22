@@ -11,6 +11,8 @@ public class Solution {
 
     public ArrayList<Integer> GetLeastNumbers_Solution(int [] input, int k) {
         ArrayList<Integer> list = new ArrayList<>();
+
+        // k <= 0 这个判断条件必须要！！！！！！！！！！！！！
         if (input == null || input.length < k || k <= 0) {
             return list;
         }

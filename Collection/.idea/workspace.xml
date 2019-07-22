@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/34.二叉树中和为某一值的路径[0721][N]/34.二叉树中和为某一值的路径[0721][N].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.基础算法/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,47 +25,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5346">
-              <caret line="271" column="31" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12694">
-              <caret line="644" selection-start-line="644" selection-end-line="644" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47586">
-              <caret line="2255" column="38" selection-start-line="2255" selection-start-column="37" selection-end-line="2255" selection-end-column="38" />
-              <folding>
-                <element signature="e#32334#32335#0" expanded="true" />
-                <element signature="e#32385#32386#0" expanded="true" />
-                <element signature="e#44347#44348#0" expanded="true" />
-                <element signature="e#44395#44396#0" expanded="true" />
-                <element signature="e#48122#48123#0" expanded="true" />
-                <element signature="e#48173#48174#0" expanded="true" />
-                <element signature="e#93710#93711#0" expanded="true" />
-                <element signature="e#93797#93798#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="874">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/40.最小的K个数[RE0715]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="193">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0.基础算法/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -165,8 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/28.对称的二叉树[RE0712]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/29.顺时针打印矩阵[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/30.包含min函数的栈[RE0712]/src/Solution.java" />
         <option value="$PROJECT_DIR$/31.栈的压入、弹出序列[RE0713]/src/Solution.java" />
         <option value="$PROJECT_DIR$/32.1从上往下打印二叉树[RE0713]/src/Solution.java" />
@@ -177,7 +167,6 @@
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/3. 数组中重复的数字[0713]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/4. 二维数组中的查找[0713]/src/Solution.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/6. 从尾到头打印链表[0713]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java" />
         <option value="$PROJECT_DIR$/36.二叉搜索树与双向链表[RE0714]/src/Solution.java" />
         <option value="$PROJECT_DIR$/37.序列化二叉树[RE0714]/src/Solution.java" />
         <option value="$PROJECT_DIR$/38.字符串排序/src/Solution.java" />
@@ -216,6 +205,9 @@
         <option value="$PROJECT_DIR$/0.面试其他/src/WeakTest.java" />
         <option value="$PROJECT_DIR$/0.面试其他/src/Test.java" />
         <option value="$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/0.基础算法/src/Test.java" />
+        <option value="$PROJECT_DIR$/0.基础算法/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -227,10 +219,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-180" />
-    <option name="y" value="63" />
-    <option name="width" value="1936" />
-    <option name="height" value="880" />
+    <option name="x" value="-3045" />
+    <option name="y" value="250" />
+    <option name="width" value="2420" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,8 +233,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,18 +243,31 @@
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
+              <item name="0.基础算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="0.手撕代码" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指OFFER" type="462c0819:PsiDirectoryNode" />
+              <item name="0.基础算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="40.最小的K个数[RE0715]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="40.最小的K个数[RE0715]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeakTest">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LRUcache.Main" />
       <module name="0.面试其他" />
@@ -319,13 +322,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="40.最小的K个数[RE0715]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -344,6 +340,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="0.基础算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeakTest" />
       <module name="0.面试其他" />
@@ -353,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.WeakTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -407,14 +410,8 @@
       <workItem from="1563438414583" duration="4901000" />
       <workItem from="1563624840637" duration="8605000" />
       <workItem from="1563676109840" duration="17865000" />
-      <workItem from="1563774268607" duration="234000" />
-    </task>
-    <task id="LOCAL-00080" summary="剑指OFFER">
-      <created>1562505515544</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1562505515544</updated>
+      <workItem from="1563774268607" duration="1609000" />
+      <workItem from="1563779232713" duration="2692000" />
     </task>
     <task id="LOCAL-00081" summary="剑指OFFER">
       <created>1562506302198</created>
@@ -752,17 +749,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563721726232</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="剑指OFFER">
+      <created>1563774566211</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1563774566211</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245772000" />
+    <option name="totallyTimeSpent" value="249789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.22761194" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.20442359" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22441365" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -875,35 +879,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/43.从1到n整数中1出现的次数/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1345">
-          <caret line="218" column="5" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.旋转数组的最小数字/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/10.1 斐波那契数列[0717]/src/Soluton.java" />
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/16. 数值的整数次方[0717]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/21.调整数组顺序使奇数位于偶数前面[0717]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -1150,7 +1125,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47586">
+        <state relative-caret-position="49757">
           <caret line="2255" column="38" selection-start-line="2255" selection-start-column="37" selection-end-line="2255" selection-end-column="38" />
           <folding>
             <element signature="e#32334#32335#0" expanded="true" />
@@ -1162,6 +1137,13 @@
             <element signature="e#93710#93711#0" expanded="true" />
             <element signature="e#93797#93798#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1219,10 +1201,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.手撕代码/剑指OFFER/33.二叉搜索树的后续遍历序列[0721][N]/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/0.基础算法/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="1081">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35.复杂链表的复制[RE0714]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.基础算法/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.1从上往下打印二叉树/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/40.最小的K个数[RE0715]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
