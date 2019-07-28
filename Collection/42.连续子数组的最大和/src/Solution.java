@@ -4,6 +4,7 @@
 public class Solution {
 
     public int FindGreatestSumOfSubArray(int[] array) {
+
         if (array == null || array.length == 0) {
             return 0;
         }
