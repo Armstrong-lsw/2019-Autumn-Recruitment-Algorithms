@@ -13,7 +13,9 @@ public class Solution {
     private int cols;
 
     public boolean hasPath(char[] matrix, int rows, int cols, char[] str) {
-        if (matrix == null || matrix.length == 0 || matrix.length != rows * cols) return false;
+        if (matrix == null || matrix.length == 0 || matrix.length != rows * cols) {
+            return false;
+        }
         char[][] arr = new char[rows][cols];
         buildMatrix(matrix, arr, rows, cols);
         hasUsed = new boolean[rows][cols];
@@ -30,8 +32,12 @@ public class Solution {
     }
 
     private boolean backtracking(char[][] arr, char[] str, int pathLen, int r, int c) {
-        if (pathLen == str.length) return true;
-        if (r < 0 || r >= rows || c < 0 || c >= cols || hasUsed[r][c] || str[pathLen] != arr[r][c]) return false;
+        if (pathLen == str.length) {
+            return true;
+        }
+        if (r < 0 || r >= rows || c < 0 || c >= cols || hasUsed[r][c] || str[pathLen] != arr[r][c]) {
+            return false;
+        }
         hasUsed[r][c] = true;
         for (int[] route : next) {
             if (backtracking(arr, str, pathLen + 1, r + route[0], c + route[1])) {
