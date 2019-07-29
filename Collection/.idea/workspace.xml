@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8f6134-8cd7-444f-b8e4-7cd0d2b9e464" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/35.复杂链表的复制[0724]/35.复杂链表的复制[0724].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/37.序列化二叉树[0727]/37.序列化二叉树[0727].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/40.最小的K个数[0729]/40.最小的K个数[0729].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/41.1数据流中的中位数[0729]/41.1数据流中的中位数[0729].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.手撕代码/剑指OFFER/41.2数据流中第一个不重复的字符[0729]/41.2数据流中第一个不重复的字符[0729].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61.扑克牌顺子/61.扑克牌顺子.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62.圆圈中最后剩下的数/62.圆圈中最后剩下的数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63.股票的最大利润/63.股票的最大利润.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64.求1+2+3+...+n/64.求1+2+3+...+n.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/65.不用加减乘除做加法/65.不用加减乘除做加法.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66.构建乘积数组/66.构建乘积数组.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67.把字符串转换成整数/67.把字符串转换成整数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68.1.BST中两个节点的最低公共祖先/68.1.BST中两个节点的最低公共祖先.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68.2.普通树中两个节点的最低公共祖先/68.2.普通树中两个节点的最低公共祖先.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/0.基础算法/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/0.面试其他/LRUcache/Cache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/0.面试其他/LRUcache/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/0.面试其他/WeakTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/17. 打印从 1 到最大的 n 位数[0720][N]/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/17. 打印从 1 到最大的 n 位数[0723][N]/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/40.最小的K个数[RE0715]/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/61.扑克牌顺子/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +42,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/68.1.BST中两个节点的最低公共祖先/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/68.2.普通树中两个节点的最低公共祖先/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -149,6 +163,7 @@
         <option value="$PROJECT_DIR$/68.2.普通树中两个节点的最低公共祖先/src/Solution.java" />
         <option value="$PROJECT_DIR$/12.矩形中的路径/src/Solution.java" />
         <option value="$PROJECT_DIR$/55.2.平衡二叉树/src/Solution.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -351,14 +366,7 @@
       <workItem from="1564220752524" duration="2867000" />
       <workItem from="1564241443061" duration="74000" />
       <workItem from="1564310991629" duration="13013000" />
-      <workItem from="1564364737390" duration="1073000" />
-    </task>
-    <task id="LOCAL-00096" summary="剑指OFFER">
-      <created>1563022028386</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1563022028387</updated>
+      <workItem from="1564364737390" duration="1377000" />
     </task>
     <task id="LOCAL-00097" summary="剑指OFFER">
       <created>1563022305536</created>
@@ -696,11 +704,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564330147725</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="剑指OFFER">
+      <created>1564365826629</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1564365826629</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14086000" />
+    <option name="totallyTimeSpent" value="14390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -778,9 +793,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/58.2.左旋转字符串/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -915,6 +927,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
