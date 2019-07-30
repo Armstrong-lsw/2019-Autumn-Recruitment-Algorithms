@@ -26,6 +26,8 @@ public class Solution {
     }
 
     private int height(TreeNode node) {
+
+
         if (node == null || !isBalanced) {
             return 0;
         }
